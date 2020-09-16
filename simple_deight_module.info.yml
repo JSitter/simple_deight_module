@@ -1,0 +1,9 @@
+name: Simple Drupal 8 Module Example
+type: module
+description: "This module demonstrates simple examples using Controller, Blocks, use of Libraries and custom API generation."
+package: Custom
+version: '1.0 Alpha'
+core: '8.x'
+
+libraries:
+  - simple_deight_module/js-example
